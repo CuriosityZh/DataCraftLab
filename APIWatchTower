@@ -1,0 +1,23 @@
+
+---
+
+### **2. main_APIWatchTower**  
+**Description:**  
+A script that monitors the availability and latency of any list of endpoints.
+
+#### **README.md**
+```markdown
+# APIWatchTower - HTTP Uptime & Latency Tracker
+
+APIWatchTower gives devs real-time visibility into the performance of their APIs and services.
+
+## Features
+- Tracks response codes & timing  
+- Logs to console or file  
+- Handles timeouts gracefully  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_APIWatchTower.git
+cd main_APIWatchTower
+python monitor.py
